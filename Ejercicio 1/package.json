@@ -1,0 +1,14 @@
+{
+  "name": "prueba-techywe-ejercicio-1",
+  "version": "1.0.0",
+  "description": "Programa que recibe 3 valores y evalua si se puede formar un triangulo a partir de eos valores",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Willian Hernández",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.30"
+  }
+}
